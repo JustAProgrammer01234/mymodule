@@ -2,7 +2,7 @@ package mymodule
 
 import "fmt"
 
-func hello(name string) string {
+func hello() string {
 	return "Hello there!"
 }
 
